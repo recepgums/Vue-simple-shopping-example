@@ -1,4 +1,8 @@
 
+##View
+
+![metin](resim linki)
+
 
 ## Project setup
 ```
