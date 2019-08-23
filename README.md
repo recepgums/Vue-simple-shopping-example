@@ -1,7 +1,8 @@
 
 ##View
 
-![metin](resim linki)
+![screeen1](./a.png)
+![screeen2](./b.png)
 
 
 ## Project setup
